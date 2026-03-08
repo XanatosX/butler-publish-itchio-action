@@ -1,4 +1,4 @@
-FROM rockylinux:8
+FROM rockylinux:9
 
 LABEL "com.github.actions.name"="Butler Push"
 LABEL "com.github.actions.description"="Publishes releases to Itch.io using Butler"
